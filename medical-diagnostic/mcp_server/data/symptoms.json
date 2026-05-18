@@ -1,0 +1,52 @@
+{
+  "toux": {
+    "description": "Expulsion forcée d'air des poumons",
+    "orientation": "Infections respiratoires hautes/basses, allergie, asthme",
+    "red_flag": false
+  },
+  "fièvre": {
+    "description": "Température corporelle supérieure à 38°C",
+    "orientation": "Infection virale ou bactérienne, inflammation",
+    "red_flag": false
+  },
+  "dyspnée": {
+    "description": "Difficulté ou gêne à respirer",
+    "orientation": "Asthme, pneumonie, insuffisance cardiaque, embolie pulmonaire",
+    "red_flag": true
+  },
+  "douleur thoracique": {
+    "description": "Douleur ou oppression dans la région thoracique",
+    "orientation": "Urgence cardiaque possible, pleurésie, pneumothorax",
+    "red_flag": true
+  },
+  "céphalée": {
+    "description": "Maux de tête",
+    "orientation": "Tension, migraine, sinusite, hypertension artérielle",
+    "red_flag": false
+  },
+  "vomissements": {
+    "description": "Expulsion du contenu gastrique",
+    "orientation": "Gastroentérite, intoxication alimentaire, migraine",
+    "red_flag": false
+  },
+  "diarrhée": {
+    "description": "Selles liquides et fréquentes",
+    "orientation": "Gastroentérite, intoxication alimentaire, colite",
+    "red_flag": false
+  },
+  "confusion": {
+    "description": "Altération de la conscience et de l'orientation",
+    "orientation": "URGENCE — AVC, méningite, encéphalite, hypoglycémie",
+    "red_flag": true
+  },
+  "hémoptysie": {
+    "description": "Crachats de sang",
+    "orientation": "Tuberculose, cancer pulmonaire, embolie pulmonaire",
+    "red_flag": true
+  },
+  "asthénie": {
+    "description": "Fatigue générale et persistante",
+    "orientation": "Anémie, infection chronique, dépression, hypothyroïdie",
+    "red_flag": false
+  }
+}
